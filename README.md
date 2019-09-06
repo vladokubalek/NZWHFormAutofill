@@ -6,11 +6,15 @@
 4.1 Register on https://onlineservices.immigration.govt.nz/Registration/default.aspx
 4.2 Login and go to https://onlineservices.immigration.govt.nz/?WHS 
 4.3 Select Germany
+
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/country.png)
+
 4.4 Apply Now
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/apply.png)
+
 4.5 Run the script from SciTE (F5)
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/runscript.png)
+
 4.6 Select first box on the page
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/cursor.png)
 
