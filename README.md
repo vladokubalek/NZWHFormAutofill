@@ -1,5 +1,5 @@
 1. Download AutoIt - https://www.autoitscript.com/site/autoit/downloads/
-2. Download autofill.au3 from this repo ()
+2. Download autofill.au3 from this repo (https://raw.githubusercontent.com/vladokubalek/NZWHFormAutofill/master/autofill.au3)
 3. Open autofill.au3 in SciTE editor
 
 4. Test it on the form for Germany or other country which has registrations open at all times.
@@ -20,3 +20,5 @@
 5. Now you have to modify the script to make sure it fills the data correctly.
 
 6. Good luck & Have fun
+
+Please note there is no guarantee that form for your country will be the same as for the tested country.
