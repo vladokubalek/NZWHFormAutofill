@@ -1,7 +1,6 @@
-1. Install AutoIt - https://www.autoitscript.com/site/autoit/downloads/
-(https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe)
+1. Install AutoIt - https://www.autoitscript.com (https://www.autoitscript.com/cgi-bin/getfile.pl?autoit3/autoit-v3-setup.exe)
 
-2. Download autofill.au3 from this repo (https://raw.githubusercontent.com/vladokubalek/NZWHFormAutofill/master/autofill.au3)
+2. Download autofill.au3 from this repository (https://github.com/vladokubalek/NZWHFormAutofill/master/autofill.au3)
 
 3. Open autofill.au3 in SciTE editor
 
