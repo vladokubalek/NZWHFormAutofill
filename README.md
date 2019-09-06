@@ -13,7 +13,9 @@
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/runscript.png)
 4.6 Select first box on the page
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/cursor.png)
+
 4.7 Press F1
+
 4.8 The form should be filled
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/filled.png)
 
