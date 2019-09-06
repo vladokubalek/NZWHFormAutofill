@@ -32,7 +32,7 @@
 
 ![](https://github.com/vladokubalek/NZWHFormAutofill/blob/master/resources/filled.png)
 
-5. Now you have to modify the script to make sure it fills the data correctly.
+5. Now you have to modify the script(name, address, ...) to make sure it fills the correct data into correct fields.
 
 6. Good luck & Have fun
 
